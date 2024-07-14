@@ -1,7 +1,7 @@
 # CoffeeShop_Sales_Analysis
 Objective:
 
-The main objective ofthis project is to analyzeretail sales data to gain actionable insights that will enhance the performance of the Coffee Shop.
+The main objective ofthis project is to analyze retail sales data to gain actionable insights that will enhance the performance of the Coffee Shop.
 
 Recommended Analysis:
 
