@@ -5,16 +5,16 @@ The main objective ofthis project is to analyze retail sales data to gain action
 
 Recommended Analysis:
 
--How do sales vary by day of the week and hour of the day?
+- How do sales vary by day of the week and hour of the day?
 
--Are there any peak times for sales activity?
+- Are there any peak times for sales activity?
  
 - What is the total sales revenue for each month?
 
 -How do sales vary across different store locations?
  
--what is the average price/order per person?
+- What is the average price/order per person?
 
--Which products are the best selling in terms of quantity and revenue?
+- Which products are the best selling in terms of quantity and revenue?
  
--How do sales vary by product category and type?
+- How do sales vary by product category and type?
