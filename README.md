@@ -11,7 +11,7 @@ Recommended Analysis:
  
 - What is the total sales revenue for each month?
 
--How do sales vary across different store locations?
+- How do sales vary across different store locations?
  
 - What is the average price/order per person?
 
